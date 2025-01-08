@@ -1,5 +1,5 @@
 # Codecademy-projects
-Overview of Codecademy projects
+Overview of my Codecademy projects:
 - Codecademy-Group-Project-US-medical-Insurance-Cost
 - Codecademy-Data-Analytics-Final-Portfolio-Project-Food-ordering
 - Codecademy-Data-Science-Foundations-Portfolio-Project-Biodiversity-in-National-Parks
