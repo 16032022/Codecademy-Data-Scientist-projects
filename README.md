@@ -10,7 +10,7 @@ Welcome to the Codecademy repository! This repository contains code examples of 
 - _Codecademy-Data-Science-Foundations-Portfolio-Project-Biodiversity-in-National-Parks_:  
   Interpret data from the American National parks service (system) about endangered (plant and animal) species found in (four) different national park sites.
   
-- _Codecademy-Portfolio-Project-Roller-Coasters_:  
+- _Codecademy-Portfolio-Project-Roller-Coasters_:  Visualisation for Data Science Applications: Roller Coaster Project
   Data analysis and visualization related to data covering international roller coasters from 2013 till 2018 has been performed to get an insight of their best ranking.
 
 - _Codecademy-Portfolio-Project-Data-Visualization-Life-Expectancy-and-GDP_:  
