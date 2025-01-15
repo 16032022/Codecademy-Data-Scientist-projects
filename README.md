@@ -24,7 +24,7 @@ TO BE DRAFTED
 Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
 
 ## License
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](https://opensource.org/license/MIT).
 
 
 
