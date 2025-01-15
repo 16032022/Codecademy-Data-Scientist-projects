@@ -4,7 +4,7 @@ Welcome to the Codecademy repository! This repository contains code examples of 
 - _Codecademy-Group-Project-US-medical-Insurance-Cost_:  
   Data analysis and visualisation of a medical insurance cost dataset.
   
-- _Codecademy-Data-Analytics-Final-Portfolio-Project-Food-ordering_:  Analytics Specialist Final Project: Food Ordering and Delivery 
+- _Codecademy-Data-Analytics-Final-Portfolio-Project-Food-ordering_:  Analytics Specialist Final Project: Food Ordering and Delivery   
   Analysis of data of different orders made by the registered customers in an online portal (App) of a food aggregator company to get a view how restaurants can streamline their operations and improve their customer experience.
   
 - _Codecademy-Data-Science-Foundations-Portfolio-Project-Biodiversity-in-National-Parks_:  
