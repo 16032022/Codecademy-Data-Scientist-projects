@@ -4,13 +4,13 @@ Welcome to the Codecademy repository! This repository contains code examples of 
 - _Codecademy-Group-Project-US-medical-Insurance-Cost_:  
   Data analysis and visualisation of a medical insurance cost dataset.
   
-- _Codecademy-Data-Analytics-Final-Portfolio-Project-Food-ordering_:  Analytics Specialist Final Project: Food Ordering and Delivery   
+- _Data-Analytics Specialist Final Project: Food Ordering and Delivery_:     
   Analysis of data of different orders made by the registered customers in an online portal (App) of a food aggregator company to get a view how restaurants can streamline their operations and improve their customer experience.
   
 - _Codecademy-Data-Science-Foundations-Portfolio-Project-Biodiversity-in-National-Parks_:  
   Interpret data from the American National parks service (system) about endangered (plant and animal) species found in (four) different national park sites.
   
-- _Codecademy-Portfolio-Project-Roller-Coasters_:  Visualisation for Data Science Applications: Roller Coaster Project  
+- _Visualisation for Data Science Applications: Roller Coaster Project_:  
   Data analysis and visualization related to data covering international roller coasters from 2013 till 2018 has been performed to get an insight of their best ranking.
 
 - _Codecademy-Portfolio-Project-Data-Visualization-Life-Expectancy-and-GDP_:  
