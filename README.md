@@ -13,7 +13,7 @@ Welcome to the Codecademy repository! This repository contains code examples of 
 - _Visualisation for Data Science Applications: Roller Coaster Project_:  
   Data analysis and visualization related to data covering international roller coasters from 2013 till 2018 has been performed to get an insight of their best ranking.
 
-- _ Data Visualization Project: The effect of Life Expectancy on Economic Growth within six countries from 2000 till 2011_  
+- _Data Visualization Project: The effect of Life Expectancy on Economic Growth within six countries from 2000 till 2011_  
   analyze data on Gross Domestic Product (GDP) and Life Expectancy at birth (LE) from the World Health Organization (WHO) and the World Bank to identify the effect of LE on Economic Growth within six countries from 2000 till 2015
 
 
