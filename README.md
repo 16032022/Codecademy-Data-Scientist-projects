@@ -1,13 +1,13 @@
 #  ![image](https://github.com/user-attachments/assets/7b5e0b22-b12e-487d-aa83-fb6965172df4) Data Scientist: Analytics Specialist projects
 Welcome to the Codecademy repository! This repository contains code examples of different projects inspired by the course "Data Scientist: Analytics Specialist" offered on the [Codecademy platform](https://www.codecademy.com/):
 
-- _Codecademy-Group-Project-US-medical-Insurance-Cost_:  
+- _Analytics-Specialist-Group-Project-US-Medical-Insurance-Cost_:  
   Data analysis and visualisation of a medical insurance cost dataset.
   
 - _Data-Analytics Specialist Final Project: Food Ordering and Delivery_:     
   Analysis of data of different orders made by the registered customers in an online portal (App) of a food aggregator company to get a view how restaurants can streamline their operations and improve their customer experience.
   
-- _Codecademy-Data-Science-Foundations-Portfolio-Project-Biodiversity-in-National-Parks_:  
+- _Data-Science-Foundations-Project-Biodiversity-in-National-Parks_:  
   Interpret data from the American National parks service (system) about endangered (plant and animal) species found in (four) different national park sites.
   
 - _Visualisation for Data Science Applications: Roller Coaster Project_:  
