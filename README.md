@@ -1,4 +1,4 @@
-# Codecademy-projects
+#  ![image](https://github.com/user-attachments/assets/7b5e0b22-b12e-487d-aa83-fb6965172df4) Data Scientist: Analytics Specialist projects
 Welcome to the Codecademy repository! This repository contains code examples of different projects inspired by the course "Data Scientist: Analytics Specialist" offered on the [Codecademy platform](https://www.codecademy.com/):
 
 - _Codecademy-Group-Project-US-medical-Insurance-Cost_:  
