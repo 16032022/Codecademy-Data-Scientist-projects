@@ -18,7 +18,8 @@ Welcome to the Codecademy repository! This repository contains code examples of 
 
 
 ## ❓ What's Inside
-TO BE DRAFTED 
+▪	Manage and analyse data, drive decision-making, build dashboards and deliver complete challenge capstone projects.
+▪ Data Visualization Fundamentals with Python, Data Wrangling, Cleaning, and Tidying, Advanced Exploratory Data Analysis and Communicating Data Science Findings.
 
 ## Contributions
 Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
